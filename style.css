@@ -61,7 +61,7 @@ a:hover {
 .active-background {
     position: absolute;
     left: 6%;
-    bottom: 142%;
+    bottom: 140%;
     background-color: rgba(0, 255, 247, 0.74);
     width: 300px;
     height: 300px;
