@@ -1,0 +1,37 @@
+html, body{
+    min-width: 100%;
+    min-height: 100%;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    margin-left: 0;
+}
+#container {  
+    position: relative;   
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    width: 320px;
+    margin: 10% auto;
+}
+p {
+    text-align: center;
+    margin-left: 20px;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    width: 280px;
+    margin-top: 0;
+}
+h2 {
+    color: hsl(218, 44%, 22%); 
+    font-weight: 700;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 0;
+    width: 280px;
+}
+.qr-code {
+    width: 280px; 
+    border-radius: 30px;
+    padding: 20px;
+}
